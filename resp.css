@@ -35,6 +35,21 @@
         width: 80px;
         height: auto;
     }
+    .guide{
+    margin-top: -40px;
+}
+
+.guide li{
+    font-size: small;
+    text-align: left;
+    margin-left: -20px;
+}
+
+.guide h1{
+    font-size: large;
+    text-align: left;
+    margin-left: -10px;
+}
     .home img {
         margin-left: 10px;
         width: 90%;
